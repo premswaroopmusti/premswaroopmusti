@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prem Swaroop</h1>
-<h3 align="center">A Passionate Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premswaroopmusti&label=Profile%20views&color=0e75b6&style=flat" alt="premswaroopmusti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premswaroopmusti" alt="premswaroopmusti" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, Data Science, Deep Learning**
+- 💬 Ask me about **Software Engineering, Java Development**
 
 - 📫 How to reach me **premswaroopmusti@gmail.com**
 
