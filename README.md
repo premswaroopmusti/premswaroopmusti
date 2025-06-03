@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **premswaroopmusti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17RmccvSnsBXezN4J1pY1gQ3B-YD37jQM/view?usp=sharing](https://drive.google.com/file/d/17RmccvSnsBXezN4J1pY1gQ3B-YD37jQM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
