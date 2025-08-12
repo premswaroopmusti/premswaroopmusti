@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premswaroopmusti" alt="premswaroopmusti" /></a> </p>
 
-- 💬 Ask me about **Software Engineering, Java Development, Python Development**
+- 💬 Ask me about **Software Engineering, Java Development**
 
 - 📫 How to reach me **premswaroopmusti@gmail.com**
 
